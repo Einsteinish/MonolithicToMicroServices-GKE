@@ -19,3 +19,7 @@ Kubernetes Version: 1.2.2
 * [kelseyhightower/auth](https://hub.docker.com/r/kelseyhightower/auth) - Auth microservice. Generates JWT tokens for authenticated users.
 * [kelseyhightower/hello](https://hub.docker.com/r/kelseyhightower/hello) - Hello microservice. Greets authenticated users.
 * [ngnix](https://hub.docker.com/_/nginx) - Frontend to the auth and hello services.
+
+
+## Credit
+* [googleCode](https://github.com/googlecodelabs/orchestrate-with-kubernetes.git) - Get complete codes

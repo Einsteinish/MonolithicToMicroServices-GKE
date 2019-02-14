@@ -8,14 +8,8 @@
 * Deploy and manage Docker containers using kubectl
 * Ports - NodePort, Port, TargetPort
 * Service types - NodePort and LoadBalancer
+* Managing Applications with Kubernetes
 
-
-
-## Setup GCE and Enable Cloud Shell 
-
-## Provision Kubernetes using GKE
-
-## Managing Applications with Kubernetes
 
 [App](https://github.com/kelseyhightower/app) is hosted on GitHub and provides an example 12 Facter application. We will be working with the following Docker images:
 

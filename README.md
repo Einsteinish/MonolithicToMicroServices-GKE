@@ -1,11 +1,15 @@
 # Kubernetes with GKE
 
-You will learn how to:
+## Tutorial
+
+[From a monolithic app to micro services on GCP Kubernetes](https://bogotobogo.com/DevOps/Docker/Docker-from-Monolithic-to-Micro-services-GCP-Kubernetes.php) 
 
 * Provision a complete Kubernetes using [Google Container Engine](https://cloud.google.com/container-engine)
 * Deploy and manage Docker containers using kubectl
+* Ports - NodePort, Port, TargetPort
+* Service types - NodePort and LoadBalancer
 
-Kubernetes Version: 1.2.2
+
 
 ## Setup GCE and Enable Cloud Shell 
 
